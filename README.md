@@ -11,12 +11,12 @@
 ### Project introduce 仓库介绍 📦
 
 ##### 学习和练习 study 📕 and practice 🔨
-1：使用 Java 语言在 Leetcode 的刷题记录：[leetcode-java](https://github.com/xiao2shiqi/leetcode-java)
-2：使用 Ruby 语言在 Leetcode 的刷题记录：[leetcode-ruby](https://github.com/xiao2shiqi/leetcode-ruby)
-3：ARTS 召集令：[ARTS](https://github.com/xiao2shiqi/ARTS)
+1. 使用 Java 语言在 Leetcode 的刷题记录：[leetcode-java](https://github.com/xiao2shiqi/leetcode-java)
+2. 使用 Ruby 语言在 Leetcode 的刷题记录：[leetcode-ruby](https://github.com/xiao2shiqi/leetcode-ruby)
+3. ARTS 召集令：[ARTS](https://github.com/xiao2shiqi/ARTS)
 
 ##### 其他 other 🔫
-1：[java sso template 14年和朋友开源的 Java 快速开发脚手架](https://github.com/ossbar/sso)
+1. [java sso template 14年和朋友开源的 Java 快速开发脚手架](https://github.com/ossbar/sso)
 
 
 <!--

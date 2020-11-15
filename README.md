@@ -17,7 +17,7 @@ I am a back-end engineer, familiar with ruby and Java language, a little bit of 
 3. ARTS 召集令：[ARTS](https://github.com/xiao2shiqi/ARTS) 走进科学：什么是 [ARTS](https://www.jianshu.com/p/951607ebbba0)
 
 ##### 其他 other 🔫
-1. [java sso template 14年和朋友开源的 Java 快速开发脚手架](https://github.com/ossbar/sso)
+1. 2014年和几个朋友开源的Java快速开发 [脚手架工具 SSO](https://github.com/ossbar/sso)
 
 
 <!--

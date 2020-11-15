@@ -15,8 +15,7 @@
 ### Contact me 📱
 1. [知乎@小二十七](https://www.zhihu.com/people/xiao-bin-91/posts) 
 2. [微博@phoenix_肖斌](https://weibo.com/u/2102996894)
-3. 公众号@小二十七:
-![wechat](https://highlight.s3.cn-northwest-1.amazonaws.com.cn/1564929103262)
+3. [公众号@小二十七](https://highlight.s3.cn-northwest-1.amazonaws.com.cn/1564929103262)
 
 <!--
 **xiao2shiqi/xiao2shiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

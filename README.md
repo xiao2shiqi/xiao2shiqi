@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 😄 I am a back-end engineer, familiar with ruby and Java language, a little bit of front-end Javascript + Vue knowledge, like running, reading, love technology, believe that technology can change the world
+- 😄 我是一名后端工程师，熟悉 ruby 和 java 语言，稍微懂一点前端 JavaScript + Vue 知识，喜欢跑步，读书，热爱技术，相信技术可以改变世界
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
 <!--
 **xiao2shiqi/xiao2shiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

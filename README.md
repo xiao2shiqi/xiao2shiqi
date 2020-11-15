@@ -4,9 +4,9 @@
 - 😄 我是一名后端程序员，目前熟悉 java， ruby 语言，稍微懂一点前端 JavaScript + Vue 知识，喜欢跑步，读书，热爱技术，相信技术可以改变世界
 
 ### Contact me 📱
-1：[知乎@小二十七](https://www.zhihu.com/people/xiao-bin-91/posts) 
-2：[公众号@小二十七](https://highlight.s3.cn-northwest-1.amazonaws.com.cn/1564929103262)
-3: 微信 wechat: xiao2shiqi
+1. [知乎@小二十七](https://www.zhihu.com/people/xiao-bin-91/posts) 
+2. [公众号@小二十七](https://highlight.s3.cn-northwest-1.amazonaws.com.cn/1564929103262)
+3. 微信 wechat: xiao2shiqi
 
 ### Project introduce 仓库介绍 📦
 

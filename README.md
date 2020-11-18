@@ -5,8 +5,8 @@
 
 ### Project introduce 仓库介绍 📦
 ##### 学习和练习 study 📕 and practice 🔨
-1. [leetcode-java](https://github.com/xiao2shiqi/leetcode-java) 仓库是我使用 java 在 Leetcode 的刷题记录
-2. [leetcode-ruby](https://github.com/xiao2shiqi/leetcode-ruby) 仓库是我使用 ruby 在 Leetcode 的刷题记录
+1. [leetcode-java](https://github.com/xiao2shiqi/leetcode-java) 仓库是我用 java 在 Leetcode 的刷题记录
+2. [leetcode-ruby](https://github.com/xiao2shiqi/leetcode-ruby) 仓库是我用 ruby 在 Leetcode 的刷题记录
 3. [ARTS](https://github.com/xiao2shiqi/ARTS) 是我定期回顾和总结工作技巧，输出思想，价值观的地方
 
 ##### 其他 other 🔫

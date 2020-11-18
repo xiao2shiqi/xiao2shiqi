@@ -7,7 +7,7 @@
 ##### 学习和练习 study 📕 and practice 🔨
 1. 使用 Java 语言在 Leetcode 的刷题记录：[leetcode-java](https://github.com/xiao2shiqi/leetcode-java)
 2. 使用 Ruby 语言在 Leetcode 的刷题记录：[leetcode-ruby](https://github.com/xiao2shiqi/leetcode-ruby)
-3. 我的 ARTS 践行记录，总结工作技巧，输出思想和价值观： [ARTS 践行记录](https://github.com/xiao2shiqi/ARTS)
+3. ARTS 是我践行记录，每周总结工作技巧，输出思想和价值观的地方： [ARTS](https://github.com/xiao2shiqi/ARTS)
 
 ##### 其他 other 🔫
 1. 2014年和几个朋友开源的Java快速开发脚手架工具: [Hihsoft](https://github.com/ossbar/sso)

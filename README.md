@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 A back-end programmer, mainly familiar with Java / RUBY language, a little bit of front-end, like running, reading, programming and writing, is currently writing code for life 一名后端程序员，擅长数据库，微服务，系统架构和设计，平时主要使用 java/ruby 语言，懂一点前端，兴趣爱好是喜欢跑步，读书，编程和写作，目前是终身写代码 （ABC – Always Be Coding）
+🌱 A back-end programmer, good at database, microservice, system architecture and design, usually mainly uses Java / RUBY language, knows a little front-end, hobbies are like running, reading, programming and writing, at present, is writing code for life 一名后端程序员，擅长数据库，微服务，系统架构和设计，平时主要使用 java/ruby 语言，懂一点前端，兴趣爱好是喜欢跑步，读书，编程和写作，目前是终身写代码 （ABC – Always Be Coding）
 
 
 ### Project introduce 仓库介绍 📦

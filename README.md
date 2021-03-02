@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 兴趣爱好：写代码，读书，摄影，写作
-📕 常用语言：静态语言：Java，golang，动态语言：Ruby
-🤔 目标爱好：做一个终生编程的程序员 （ABC – Always Be Coding）
+🌱 兴趣爱好：写代码，读书，摄影，写作 <br>
+📕 常用语言：静态语言：Java，golang，动态语言：Ruby <br>
+🤔 目标爱好：做一个终生编程的程序员 （ABC – Always Be Coding）<br>
 
 ### Project introduce 仓库介绍 📦
 ##### 学习和练习 study 📕 and practice 🔨

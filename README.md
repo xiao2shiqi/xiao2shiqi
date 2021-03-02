@@ -9,7 +9,7 @@
 1. [leetcode](https://github.com/xiao2shiqi/leetcode-java) 仓库是我在记录在 Leetcode 的刷题总结，主要使用我熟悉的 Java、Ruby 语言
 2. [ARTS](https://github.com/xiao2shiqi/ARTS) 是我定期回顾和总结工作技巧，输出思想，价值观的地方
 3. [go-by-example](https://github.com/xiao2shiqi/go-by-example) 是我练习 Go 语言的习题集合
-4. [ossbar/sso](https://github.com/ossbar/sso) 是我在 2014 年和几个朋友开源的 java 快速开发脚手架工具: 
+
 
 ### Contact me 联系方式 📱
 1. [知乎@小二十七](https://www.zhihu.com/people/xiao-bin-91/posts) 

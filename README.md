@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🌱 About me
+🌱 About me 关于我
 
-- 🍻 Software Engineer
-- ⚡ Java / Ruby / Go less...
-- ✍️ Blogger at [my blog](http://www.phoenixblog.cn/) 
-- 🏃 Running / Cycling / Reading / Photography 📸
+- 💼 work 职业： Software Engineer 软件工程师
+- ⚡ programing language 编程语言 ： Java / Ruby / Go less...（一点点）
+- 📖 blogger 我的博客：[my blog](http://www.phoenixblog.cn/) 
+- 🏃 life 生活：Running / Cycling 🚴/ Reading 📖/ Photography 📸
 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xiao2shiqi)](https://github.com/xiao2shiqi)

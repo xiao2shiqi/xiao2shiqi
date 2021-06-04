@@ -2,7 +2,7 @@
 
 🌱 About me 关于我
 
-- 💼 work 职业： Software Engineer 软件工程师（一个伪装成大公司管理人员但实际上是一名程序员👨🏻‍💻的伙计）
+- 💼 work 职业： Software Engineer 软件工程师（一个伪装成管理人员但实际上是一名程序员👨🏻‍💻的老伙计）
 - ⚡ programing language 编程语言 ： Java / Ruby / Go less...（一点点）
 - 📖 blogger 我的博客：[my blog](http://www.phoenixblog.cn/) 
 - 🏃 life 生活：Running / Cycling 🚴/ Reading 📖/ Photography 📸

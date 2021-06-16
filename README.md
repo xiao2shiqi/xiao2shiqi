@@ -4,7 +4,7 @@
 
 - 💼 work 职业： Software Engineer 软件工程师👨🏻‍💻
 - ⚡ programing language 编程语言 ： Java / Ruby / Go
-- 📖 blogger 我的博客：[my blog](http://www.phoenixblog.cn/) 
+- 📖 blogger 我的博客：[my blog](https://www.cnblogs.com/xiao2shiqi/) 
 - 🏃 life 生活：Running 运动 / Reading 阅读/写作 📖/ Photography 摄影 📸
 
 

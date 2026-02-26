@@ -25,7 +25,7 @@
 
 ## Latest Blog Posts
 
-- Blog: [xiao2shiqi.github.io](https://xiao2shiqi.github.io)
+- Blog: [blog.xiao27.com/en](https://blog.xiao27.com/en/)
 <!-- BLOG-POST-LIST:START -->
 - Coming soon: latest posts will be synced from my blog feed.
 <!-- BLOG-POST-LIST:END -->

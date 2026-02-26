@@ -23,11 +23,12 @@
 - [calorie-credit](https://github.com/xiao2shiqi/calorie-credit) - product concept and tooling around calorie tracking, scoring, and behavior incentives.
 - [more projects](https://github.com/xiao2shiqi?tab=repositories) - see full repository list and ongoing experiments.
 
-## What I Do
+## Latest Blog Posts
 
-- Build AI-powered tools.
-- Design clean, practical developer workflows.
-- Ship fast and iterate from real user feedback.
+- Blog: [xiao2shiqi.github.io](https://xiao2shiqi.github.io)
+<!-- BLOG-POST-LIST:START -->
+- Coming soon: latest posts will be synced from my blog feed.
+<!-- BLOG-POST-LIST:END -->
 
 ## Weekly Focus
 

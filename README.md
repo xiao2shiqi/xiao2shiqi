@@ -26,9 +26,9 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Calorie Credit - Gamified Health Management Mini Program](https://blog.xiao27.com/en/projects/calorie-credit/)
-- [About Me](https://blog.xiao27.com/en/about/)
-- [Visual NCE - Immersive New Concept English Learning](https://blog.xiao27.com/en/projects/visual-nce/)
 - [Understanding the Non-Blocking Synchronization Mechanism of Optimistic Locking CAS](https://blog.xiao27.com/en/posts/understanding-optimistic-locking-cas/)
 - [Consistency in Sharded Databases and Tables](https://blog.xiao27.com/en/posts/sharding-and-table-splitting/)
+- [Spring Transaction Management Explained](https://blog.xiao27.com/en/posts/spring-transaction-management-in-depth/)
+- [Understanding the ABAC Access Control Model](https://blog.xiao27.com/en/posts/understanding-abac/)
+- [Main Process of HTTPS Transport Encryption](https://blog.xiao27.com/en/posts/https-secure-transfer-process/)
 <!-- BLOG-POST-LIST:END -->

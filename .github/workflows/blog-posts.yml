@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  repository_dispatch:
+    types: [blog_updated]
 
 permissions:
   contents: write
@@ -18,7 +20,7 @@ jobs:
       - name: Pull latest posts into README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.xiao27.com/en/index.xml"
+          feed_list: "https://blog.xiao27.com/en/posts/index.xml"
           max_post_count: 5
           template: "- [$title]($url)"
           readme_path: "README.md"

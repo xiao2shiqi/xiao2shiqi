@@ -15,6 +15,10 @@
 
 `Java` `JavaScript` `TypeScript` `Vue` `Ruby` `Rust`
 
+I am a full-stack engineer focused on building practical products and clean developer workflows.
+I enjoy backend architecture with Java and modern frontend development with JavaScript/TypeScript and Vue.
+Recently, I have been exploring AI-powered applications and shipping ideas quickly from prototype to production.
+
 ---
 
 ## Current Projects

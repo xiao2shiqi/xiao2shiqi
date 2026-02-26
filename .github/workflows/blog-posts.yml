@@ -20,5 +20,6 @@ jobs:
         with:
           feed_list: "https://blog.xiao27.com/en/index.xml"
           max_post_count: 5
+          template: "- [$title]($url)"
           readme_path: "README.md"
           commit_message: "chore(readme): update latest blog posts"

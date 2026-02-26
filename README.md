@@ -26,4 +26,9 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calorie Credit - Gamified Health Management Mini Program](https://blog.xiao27.com/en/projects/calorie-credit/)
+- [About Me](https://blog.xiao27.com/en/about/)
+- [Visual NCE - Immersive New Concept English Learning](https://blog.xiao27.com/en/projects/visual-nce/)
+- [Understanding the Non-Blocking Synchronization Mechanism of Optimistic Locking CAS](https://blog.xiao27.com/en/posts/understanding-optimistic-locking-cas/)
+- [Consistency in Sharded Databases and Tables](https://blog.xiao27.com/en/posts/sharding-and-table-splitting/)
 <!-- BLOG-POST-LIST:END -->

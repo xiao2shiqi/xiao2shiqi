@@ -1,14 +1,6 @@
 <!-- Profile README (single-column, no nested sidebar) -->
 <h1 align="left">Hi, I'm Xiao 👋</h1>
 
-<p align="left">
-  <a href="https://github.com/xiao2shiqi">
-    <img src="https://img.shields.io/github/followers/xiao2shiqi?label=Followers&style=for-the-badge&color=111827&labelColor=000000" alt="followers"/>
-  </a>
-  <img src="https://img.shields.io/badge/Builder-Open%20Source-111827?style=for-the-badge&labelColor=000000" alt="builder"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Web-111827?style=for-the-badge&labelColor=000000" alt="focus"/>
-</p>
-
 ### `xiao2shiqi/README.md`
 
 > Ship fast, learn faster - crafting AI and web products with clarity and purpose.

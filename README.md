@@ -1,4 +1,4 @@
-<!-- Hero -->
+<!-- Profile README (single-column, no nested sidebar) -->
 <h1 align="left">Hi, I'm Xiao 👋</h1>
 
 <p align="left">
@@ -8,21 +8,6 @@
   <img src="https://img.shields.io/badge/Builder-Open%20Source-111827?style=for-the-badge&labelColor=000000" alt="builder"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Web-111827?style=for-the-badge&labelColor=000000" alt="focus"/>
 </p>
-
-<table>
-  <tr>
-    <td width="280" valign="top">
-      <img src="https://github.com/xiao2shiqi.png" width="260" alt="avatar"/>
-      <br/><br/>
-      <b>xiao2shiqi</b><br/>
-      he/him
-      <br/><br/>
-      🌏 China<br/>
-      💼 Full-time builder<br/>
-      ✉️ your-email@example.com<br/>
-      🔗 https://github.com/xiao2shiqi
-    </td>
-    <td valign="top">
 
 ### `xiao2shiqi/README.md`
 
@@ -52,10 +37,6 @@ Coding:       ████████░░ 80%
 Learning:     ███████░░░ 70%
 Content:      ████░░░░░░ 40%
 ```
-
-   </td>
-  </tr>
-</table>
 
 ---
 

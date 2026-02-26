@@ -25,16 +25,5 @@
 
 ## Latest Blog Posts
 
-- Blog: [blog.xiao27.com/en](https://blog.xiao27.com/en/)
 <!-- BLOG-POST-LIST:START -->
-- Coming soon: latest posts will be synced from my blog feed.
 <!-- BLOG-POST-LIST:END -->
-
-## Weekly Focus
-
-```text
-Product:      █████████░ 90%
-Coding:       ████████░░ 80%
-Learning:     ███████░░░ 70%
-Content:      ████░░░░░░ 40%
-```

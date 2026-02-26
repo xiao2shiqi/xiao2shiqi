@@ -11,7 +11,7 @@
 
 ### `xiao2shiqi/README.md`
 
-> Deep in shipping mode - building AI and web products with strong product taste.
+> Ship fast, learn faster - crafting AI and web products with clarity and purpose.
 
 `Java` `JavaScript` `TypeScript` `Vue` `Ruby` `Rust`
 

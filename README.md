@@ -18,8 +18,6 @@
 I am a full-stack engineer focused on building practical products and clean developer workflows.
 I enjoy backend architecture with Java and modern frontend development with JavaScript/TypeScript and Vue.
 Recently, I have been exploring AI-powered applications and shipping ideas quickly from prototype to production.
-I am also building an English learning platform: [nce.xiao27.com](https://nce.xiao27.com/).
-I write about engineering and product building at [blog.xiao27.com/en](https://blog.xiao27.com/en/).
 
 ---
 
@@ -38,3 +36,8 @@ I write about engineering and product building at [blog.xiao27.com/en](https://b
 - [Understanding the ABAC Access Control Model](https://blog.xiao27.com/en/posts/understanding-abac/)
 - [Main Process of HTTPS Transport Encryption](https://blog.xiao27.com/en/posts/https-secure-transfer-process/)
 <!-- BLOG-POST-LIST:END -->
+
+## Online Links
+
+- [nce.xiao27.com](https://nce.xiao27.com/) - My interactive English learning website.
+- [blog.xiao27.com/en](https://blog.xiao27.com/en/) - My English blog for engineering and product notes.

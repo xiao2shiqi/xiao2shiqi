@@ -13,7 +13,7 @@
 
 > Deep in shipping mode - building AI and web products with strong product taste.
 
-`TypeScript` `JavaScript` `Node.js` `React` `Next.js` `Python` `CLI`
+`Java` `JavaScript` `TypeScript` `Vue` `Ruby` `Rust`
 
 ---
 

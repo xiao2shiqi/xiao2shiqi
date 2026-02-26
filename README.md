@@ -38,10 +38,3 @@ Coding:       ████████░░ 80%
 Learning:     ███████░░░ 70%
 Content:      ████░░░░░░ 40%
 ```
-
----
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xiao2shiqi&show_icons=true&theme=transparent&hide_border=true" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiao2shiqi&layout=compact&theme=transparent&hide_border=true" alt="langs"/>
-</p>

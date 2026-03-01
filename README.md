@@ -20,11 +20,11 @@ Recently, I have been exploring AI-powered applications and shipping ideas quick
 
 ## Latest Blog Posts
 
-- [照抄 OpenAI 工程师的 Codex 用法：一套可直接复制的 Prompt 工作流](https://blog.xiao27.com/posts/openai-codex-prompt-workflow/)
-- [理解乐观锁 CAS 的非阻塞同步机制](https://blog.xiao27.com/posts/understanding-optimistic-locking-cas/)
-- [分库分表环境下的数据一致性挑战与解决方案](https://blog.xiao27.com/posts/sharding-and-table-splitting/)
-- [深入解析 Spring 事务管理](https://blog.xiao27.com/posts/spring-transaction-management-in-depth/)
-- [理解 ABAC 访问控制模型](https://blog.xiao27.com/posts/understanding-abac/)
+- [Copying OpenAI Engineers' Codex Workflow: A Prompt System You Can Reuse Immediately](https://blog.xiao27.com/posts/openai-codex-prompt-workflow/)
+- [Understanding Optimistic Locking CAS and Non-Blocking Synchronization](https://blog.xiao27.com/posts/understanding-optimistic-locking-cas/)
+- [Data Consistency Challenges and Solutions in Database and Table Sharding](https://blog.xiao27.com/posts/sharding-and-table-splitting/)
+- [In-Depth Guide to Spring Transaction Management](https://blog.xiao27.com/posts/spring-transaction-management-in-depth/)
+- [Understanding the ABAC Access Control Model](https://blog.xiao27.com/posts/understanding-abac/)
 
 ## Online Links
 

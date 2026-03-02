@@ -20,11 +20,11 @@ Recently, I have been exploring AI-powered applications and shipping ideas quick
 
 ## Latest Blog Posts
 
+- [USB-C for AI: A Complete Practical Breakdown of the MCP Protocol](https://blog.xiao27.com/posts/mcp-usb-c-protocol-complete-guide/)
 - [Use Codex Like OpenAI Engineers: A Prompt Workflow You Can Copy Today](https://blog.xiao27.com/posts/openai-codex-prompt-workflow/)
 - [Understanding the Non-Blocking Synchronization Mechanism of Optimistic Locking CAS](https://blog.xiao27.com/posts/understanding-optimistic-locking-cas/)
 - [Consistency in Sharded Databases and Tables](https://blog.xiao27.com/posts/sharding-and-table-splitting/)
 - [Spring Transaction Management Explained](https://blog.xiao27.com/posts/spring-transaction-management-in-depth/)
-- [Understanding the ABAC Access Control Model](https://blog.xiao27.com/posts/understanding-abac/)
 
 ## Online Links
 

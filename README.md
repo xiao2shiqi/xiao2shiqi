@@ -17,6 +17,7 @@ Recently, I have been exploring AI-powered applications and shipping ideas quick
 
 - [visual-nce](https://github.com/xiao2shiqi/visual-nce) - visual representation learning project for contrastive objectives and embeddings.
 - [calorie-credit](https://github.com/xiao2shiqi/calorie-credit) - product concept and tooling around calorie tracking, scoring, and behavior incentives.
+- [iNote2Obsidian](https://github.com/xiao2shiqi/iNote2Obsidian) - iNote export/import workflow and conversion tools for Obsidian.
 
 ## Latest Blog Posts
 
